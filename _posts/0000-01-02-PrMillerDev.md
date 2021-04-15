@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-This is super rad!!
+Some super cool and witty quote.
 Use the left arrow to go back!
